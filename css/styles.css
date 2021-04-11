@@ -21,7 +21,7 @@ body{
 
 .header{
 
-   background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.6)), url(../images/cake.jpg);
+   background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.6)), url(../images/Cake.jpg);
    background-position: center;
    background-size: cover; 
    
@@ -34,6 +34,7 @@ body{
    
     
 }
+
 
 
 

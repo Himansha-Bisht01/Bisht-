@@ -1,0 +1,84 @@
+*{
+   
+    margin:0;
+    color:rgb(255, 75, 180);
+    font-family: 'Courgette', cursive;
+    overflow-x: hidden;
+    letter-spacing: 2;
+    line-height: 2;
+    overflow-y: hidden;
+    
+}
+
+body{
+
+    padding:10px 20px;
+    background: pink;
+}
+
+
+
+
+.header{
+
+   background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.6)), url(../images/cake.jpg);
+   background-position: center;
+   background-size: cover; 
+   
+   height: 100vh;
+    text-align: center;
+    text-decoration: italic;
+    padding:10px;
+    
+    
+   
+    
+}
+
+
+
+
+
+
+h1{
+
+    font-size:2rem;
+}
+
+p{
+
+    margin:10px;
+    font-size:1.3rem;
+    font-weight:bold;
+    ;
+}
+
+.himansha{
+
+    width:30%;
+    margin: auto;
+    position:relative;
+    top:35px;
+    
+    
+ 
+    
+     
+
+ 
+}
+.flower{
+   
+    transition: 3S;
+    width:60%;
+    position: absolute;
+    left:20%;
+   
+
+    
+}
+
+.flower:hover{
+
+    opacity:0;
+}
